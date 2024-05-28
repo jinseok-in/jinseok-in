@@ -8,8 +8,8 @@
   </div>
   <div>
     <h6>USE</h6>
-    <h6>Learning</h6>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+    <h6>Learning</h6>
     <img alt="MariaDB" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
     <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
     <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
