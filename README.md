@@ -8,7 +8,7 @@
   </div>
   <div>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
-    <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-mariadb.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img alt="MariaDB" src ="https://img.shields.io/badge/mariadb-#003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
   </div>
 </body>
 <!--
