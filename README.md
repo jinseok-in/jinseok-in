@@ -14,6 +14,8 @@
     <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
     <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
     <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+    <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
+    <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logoGitHub&logoColor=white"/>
   </div>
 </body>
 <!--
