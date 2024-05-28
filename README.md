@@ -10,8 +10,10 @@
     <h6>USE</h6>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
     <img alt="MariaDB" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
     <h6>Learning</h6>
-    <img alt="Spring" src ="https://img.shields.io/badge/Springb-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
+    <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
+    <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
   </div>
 </body>
 <!--
