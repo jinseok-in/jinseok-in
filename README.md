@@ -1,5 +1,5 @@
 <header>
-  <h2>jinseok github</h2>
+  <h2 align='center'>learning</h2>
 </header>
 <body>
   <div align="center">
