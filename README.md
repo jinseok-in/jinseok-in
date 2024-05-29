@@ -7,7 +7,7 @@
 
 
   </div>
-  <div>
+  <div align="center">
     <h6>USE</h6>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
     <h6>Learning</h6>
