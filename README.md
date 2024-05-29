@@ -1,5 +1,5 @@
 <header>
-  <h2 align='center'>Learninginginging</h2>
+  <h2 align='center'>Learning</h2>
 </header>
 <body>
   <div align="center">
