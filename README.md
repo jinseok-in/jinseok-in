@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#CCFFFF&height=300&section=header&text=Jinsoek's_GitHub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=CCFFFF&height=300&section=header&text=Jinsoek's_GitHub%20render&fontSize=90)
 <body>
   <div align="center">
   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="jinseok's github stats" /></a>
