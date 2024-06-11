@@ -3,7 +3,8 @@
   <div align="center">
   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="jinseok's github stats" /></a>
 
-[![Solved.acwlstjr1964](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+wlstjr1964](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
   </div>
   <div align="center">
     <h6>USE</h6>
