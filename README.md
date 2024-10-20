@@ -29,7 +29,6 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
 <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
 
 </div>
 
