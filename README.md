@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=CCFFFF&height=300&section=header&text=Jinseok's_GitHub&fontSize=40)
 <body>
   <div align="center">
-  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="jinseok's github stats" /></a>
+  <a href="https://github.com/jinseok-in"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="jinseok's github stats" /></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstjr1964)](https://solved.ac/wlstjr1964/)
   </div>
