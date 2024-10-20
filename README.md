@@ -94,6 +94,19 @@
 ## 경력 ( 총 2년 9개월 )
 - **정보보안 컨설턴트 기술체계 진단**: 선임 컨설턴트
 ISO27001:2013, ISMS, 개인정보 수탁사 점검 등의 업무 수행 - 2년9개월
+<div align="center" style="font-size: 18px; font-family: Arial, sans-serif;">
+  <p>국제 및 국내 정보보안 인증</p>
+  상세 페이지 : 
+  <a href='https://ksa.or.kr/ksa_kr/7011/subview.do' style="margin-right: 20px; text-decoration: none; color: #007BFF;">
+    <strong>ISO27001 인증</strong>
+  </a> 
+   / 
+  <a href='https://isms.kisa.or.kr/main/ispims/intro/' style="text-decoration: none; color: #007BFF;">
+    <strong>ISMS 인증</strong>
+  </a>
+</div>
+
+
 ---
 
 <div style="display: flex; justify-content: center; align-items: center;">
