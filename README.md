@@ -108,20 +108,25 @@ ISO27001:2013, ISMS, 개인정보 수탁사 점검 등의 업무 수행 (2021-06
 
 
 ---
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/jinseok-in">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="jinseok's github stats" />
-  </a>
-  
+<div align="center">
   <a href="https://solved.ac/wlstjr1964/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstjr1964" alt="Solved.ac Profile" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/jinseok-in">
+    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="jinseok's github stats" />
+  </a>
+  <a href="https://github.com/jinseok-in">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok-in&langs_count=10&layout=compact&theme=dark" alt="Top Languages"/>
+  </a>
+</div>
+
+---
 
 **Contact Information**
 
-- 이메일: realstone.in@gmail.com
+- email : realstone.in@gmail.com
 
   </div>
 </body>
