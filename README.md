@@ -68,7 +68,7 @@
 ## 💻 사용 언어
 
 - **Python**: 데이터 분석, 머신러닝 및 딥러닝 모델링, 웹 개발
-- **JavaScript (TypeScript)**: 프론트엔드 및 백엔드 개발
+- **JavaScript**: 프론트엔드 및 백엔드 개발
 - **HTML5 & CSS3**: 웹 프론트엔드 개발
 - **SQL (MySQL, MariaDB)**: 데이터베이스 설계 및 관리, 쿼리 작성
 
